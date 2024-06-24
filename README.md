@@ -1,4 +1,4 @@
-## Hi 👋, I'm Timothy Weng  
+<h2 align="center"> Hi 👋, I'm Timothy Weng  </h2>
 
 
 
@@ -6,7 +6,7 @@
 
 <p>As a dynamic M.S. Computer Science student with a background in Marketing, I bring a unique blend of technical and strategic expertise to my work. My passion lies in front-end and full-stack development, where I thrive on creating seamless, user-friendly web experiences. With hands-on experience in crafting and launching websites on the Wix platform, I have honed my skills in custom HTML, CSS, and JavaScript, ensuring each project not only meets but exceeds user expectations. My journey from marketing to computer science empowers me to approach problems creatively, making technology more accessible and engaging for everyone.  </p>
 
-## My Skill Set
+<h2 align="center"> My Skill Set 🛠</h2> 
 <div align="center">
 <table border="0"><tr><td valign="top" width="33%">
 
@@ -47,12 +47,18 @@
 <br/>  
 
 
-
-## Github Stats  
+<h2 align="center"> Github Stat 📈</h2> 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=timothyweng-0606"align="center"/>
   <img src="https://github-readme-stats.vercel.app/api?username=timothyweng-0606&show_icons=true&theme=gruvbox&count_private=true&hide_border=true" align="center"/>
 </div>  
+
+<div align="center">
+<h2> Let's Connect 🤝 </h2>
+
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timothyweng0606)
+
+</div>
 
 
 
