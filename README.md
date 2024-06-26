@@ -15,7 +15,7 @@
 <h3 align="center"> Language </h3> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,java,c,python,swift,mysql&perline=3" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,java,c,python,swift&perline=3" />
   </a>
 </p>
 </td><td valign="top" width="33%">
@@ -36,7 +36,7 @@
 <h3 align="center"> Database </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase&perline=3" />
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql&perline=3" />
   </a>
 </p>
 </td>
