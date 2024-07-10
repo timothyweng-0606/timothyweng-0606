@@ -25,7 +25,7 @@
 <h3 align="center"> Framework </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,expressjs,django,git,npm,figma&perline=3" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,expressjs,django,git,npm,postman,figma&perline=3" />
   </a>
 </p>
 
