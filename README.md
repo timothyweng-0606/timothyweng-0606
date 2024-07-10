@@ -57,8 +57,7 @@
 <h2> Let's Connect 🤝 </h2>
 
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timothyweng0606)
-
+<img src = "https://www.codewars.com/users/Timothy%20Weng%20/badges/small"/>
 </div>
-
 
 
