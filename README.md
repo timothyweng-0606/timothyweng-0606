@@ -25,7 +25,7 @@
 <h3 align="center"> Framework </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,expressjs,django,git,figma&perline=3" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,expressjs,django,git,npm,figma&perline=3" />
   </a>
 </p>
 
@@ -57,7 +57,9 @@
 <h2> Let's Connect 🤝 </h2>
 
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timothyweng0606)
-<img src = "https://www.codewars.com/users/Timothy%20Weng%20/badges/small"/>
+<div align="center">
+<img src = "https://www.codewars.com/users/Timothy%20Weng%20/badges/large"/>
+</div>
 </div>
 
 
